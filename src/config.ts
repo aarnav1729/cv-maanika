@@ -1,2 +1,2 @@
-export const SITE_TITLE = "aarnav singh";
-export const SITE_URL = "https://aarated.netlify.app/";
+export const SITE_TITLE = "maanika suri";
+export const SITE_URL = "https://maanika.netlify.app/";
